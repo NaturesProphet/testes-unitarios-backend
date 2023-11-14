@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ms-vscode-remote.remote-containers",
+    "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "davidanson.vscode-markdownlint",
+    "hoovercj.vscode-power-mode",
+    "humao.rest-client",
+    "vscode-icons-team.vscode-icons"
+  ]
+}

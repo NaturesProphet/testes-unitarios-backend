@@ -1,0 +1,7 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 2,
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.shake.enabled": false
+}
