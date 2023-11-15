@@ -1,6 +1,6 @@
 # REFERÊNCIAS PARA TESTES UNITÁRIOS
 
-[![Github Actions](https://github.com/naturesprophet/testes-unitarios-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/NaturesProphet/testes-unitarios-backend/actions)
+[![Github Actions](https://github.com/naturesprophet/testes-unitarios-backend/actions/workflows/main.yml/badge.svg)](https://github.com/NaturesProphet/testes-unitarios-backend/actions)
 [![codecov](https://codecov.io/gh/naturesProphet/testes-unitarios-backend/branch/main/graph/badge.svg?token=0160b944-1190-4f63-8b44-08a133faaa52)](https://codecov.io/gh/naturesProphet/testes-unitarios-backend)
 
 Esse repositório tem o propósito de demonstrar algumas formas aceitáveis de utilizar mocks para testes unitários para o backend, envolvendo os tipos de implementações mais comuns do nosso dia a dia, como integrações de API, redis, rabbitmq e banco de dados.
