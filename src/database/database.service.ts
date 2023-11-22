@@ -5,7 +5,6 @@ import { Repository } from 'typeorm';
 
 @Injectable()
 export class DatabaseService {
-  constructor() {}
   @InjectRepository(LogEntity)
   private readonly repository: Repository<LogEntity>;
 
